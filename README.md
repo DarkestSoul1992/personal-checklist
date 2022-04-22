@@ -1,6 +1,6 @@
 # Personal Checklist
 
-- [ ] Completed WolfNet 6502 PC.
+- [X] Completed WolfNet 6502 PC.
 - [x] Designed gaming images.
 - [ ] Complete WolfNet 6502 PC Simulator.
 - [ ] Commplete TheAlmostGenius' homepage.
