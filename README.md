@@ -8,3 +8,4 @@
 - [ ] Complete DarkestSoul1992's homepage.
 - [ ] Publish LFS 10 License.
 - [ ] Migrate WolfNet projects to the organization's profile.
+- [ ] Remove VB-Audio Cables from Gaming PC and install Voicemeeter 8.
